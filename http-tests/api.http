@@ -1,0 +1,28 @@
+###
+
+Get http://localhost:3000/api/test
+Content-Type: application/json
+
+
+###
+
+Get http://localhost:3000/api/profile
+Content-Type: application/json
+
+###
+curl 'http://localhost:3000/api/auth/me' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: es-US,es;q=0.9,en-US;q=0.8,en;q=0.7,es-419;q=0.6' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: appSession=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwidWF0IjoxNjkxMDQzOTM2LCJpYXQiOjE2OTEwNDM5MzYsImV4cCI6MTY5MTEzMDMzNn0..ze-8FPv8lYbshv3t.AbxLZf3lcBsY307pWknWSi1WIECu9Zs3jDhJ0anzaTy-tfnru5UFeZlU6RIOxUdUCbCzHKsL0nMMQq7QkMXUcLf-Y8T3zyQHZcCuN0Jg9-GNEhbQKZBZQnwWfJ18RsNJBR0qjipW8lv3efkvgyipSJDb7bSPfJMM8b4qClWrVJWppAbytVIUOwqNQiYsZyIV8ZNnFCCoJpQf4dFnvTx8fFHjFHBDV0FVzt3jaQxxH7vDOvHyU_pDHdi0mpdnRGa-sLlSc1RUlGDGAUQIPtAja4bPOamw1Xbx5rJX7uPAnUOTyOAQ0PFavJVMaselk9gFi9JkJYVz_iZ5XIQ91_ZSkkEutAmIouEUXjxXYRMiwruc2xgd4uUilLHm90wgtu7pbssGBy7iM8Di0CwiBLoESmFtogxjNZ8vQCGYgzoPP-9Gv00obOUnjZasGdpO1MgdOx3LHGf080jNiuX5gWfxMgRPZxTzBYWCuXy6tT4Lk25W4dOYat_TUW4g1IWltP4SDDLWt-ra2_oE4NT-EOGDqjh1fDy1XO0gfiV2uCkypE-WLIyi5tjChlDznwHx3fau9HEK5uzqfCOpJ6DchQtYvaZ9FNwFlj9AUFuALOItrKteN5Oz5Yw-m8qDIWQUgX5Bd5_frE7LgxEcU04Fs1JPy7SI-LUWVBLOlIrA7z3VIIf4ipth1MGToktHX4UFk6pJI3otqZuTELDgjXSzALBa-mONiW5SdEEGLDm_JZNQ1Z3Czr44W22vQwXotpw6ZwIWO_T3RjPMewm1dNKlf2161eouU0gbM37c80fXdv7VaSBOTgZHiwIaqrTkDSJxpS3Jb5h7vlsWsttQ35S6NjE7r1-HQaF9b1oxK8erf8tRict9KRKtk1bJB8cAMJamh1KI1JWJaqlIH8rFsEx8O4njzu0YO1yo5uVqxfT1Lrm1dOSMjajQaxqnJq0A6gjK98mbDqB-hO_jXkrMb93CCtHdKVKhv-Riq6oQDGs8Jti74paYgWXsGYBL6M_anL9_89LdcTtWVWElfr_DQRtmRa6yN91BakpAJisUiDc9nTqRp3HJoAa3wXF2MyFkg3twd92YmCQuM_k5jPf5zi5pDHMvqOw7Nn7oU_ZkQwPSSwFnHZ2dpruSAYzXXron9_1ICccyyOY-5WPTCX-Twy6hwSJogUtcuM25t9lp0EJUUyZl5LZ2-B0kOwRx3EBpoXTJx5djzNkETF-wSu-tfav9jjQIU8rE2jeGAaL6hr1ppuvbYCabaJZnIWGr8DJPUEI5ZLt4YpR9o6C2EeklMmoe8TB0Gsy17s66cBf0AHArMJLWm9kFSvGpapSlVgQLFQSJr2etDYZz0lNBGEtcL2UffsJdDf0lAra7B_j-uY2Boh3AU2iN_fR2L_yTfJ_AwWfD26HdL4R3zr3pzXSVLiVptO7icajeBOXvJCcDcq4KMb8fD7ek4cQhltoPL_LefPA1srhP2AXKp7eRYOQOGPxEXNhzONLpY3ryBffsVtg1GYXBgRzA7PKdoIo64mZyUC8BksG08N50xokb9uyKICZ3GqnlxPq_nDkHGV-ON6NmnYFrICy7Uu15iQm_XKPShDRTOs09MbrFwzj7RnXR8mTabHSZ6Hogv6Qr8WbC8tXMFfZc2GRbo-568H7HMHtYC8wPCRK3p2QUkez-uTk4TRRElZgef9TguNqS1Q0nqPv6Pnv4tN5a1SmsiqKgqSHL2cTpkFg3-OGxlq-bVprhfKkBhw7j2gCZvx8HW46MOk_F6jP4VmOhAFWfNX2dBRA5cySYqbMCnVgWEaJ-evpKnF29yEXbwMiyEHe4IUGrksF2yzYas4xvjJZtTHNAfmSxOFFnAKvy-vdEq7kXpnq0DYXn8EC2i3wSv_exitrS9VYObtTYjreVmZ2O1EJBvu187ruAt_FNkCKiifip-7D-_Wln_hsr-Dhby6qPov8ODuIDkawMegALBf3gijFTImT2I0l1K8rwOroB3z3oYcKiVJhWZ6J7yF1EQPgNRf60t0eKs6B9DCtKUs1cRyxHKL5VD_4p-1_kVMK3V3ng9tDr0wEh_4xVlxGoGOlvciQGSMZAUw3CeoNGp6xFWqMYmL_5TLo3bpf0Vq4tntvxprd9MD_hjHUCbJIwVp0aA6JOc6Qal_u6UlNgm2kwMBXoeWL9O4boRv2i7izbbXA5NB_nkpzrPghQxeUpU4dYTB6EKODYJouYfsAEzAR48da3fBlj-lH86Cr2BXI-OlfGTdrY2Fi5UBLJ8nSKsfw_Nt1UQx38_jkt1gjoMvrkA3plEP6dS97CJp0_C_NzxrfJr90LbeD8BtNjr0fUvOZbDWMbgeB7l4UDshfXlwMMlo2mkAVYe8QKIhznjO2VtwwZJf63YmYZu6NH5wxWVu0KBqBy_eO-uHLoq4t17aQPzyAaWMd0iaUrIM45AKGcWe0bICAQ2FMcUnCWwMsYlILhq6iy4yOn14-PX9YbgK7_98lo_Qe1zau19Nf62i-eDI91FlOmLyPkHIXqd5hy4-CdIpniC7SVeIg3Lg7FQGvLOg9AnTRDyvrENrh2yrLI9mtgQ0uS--bFM-FWtVtXop9Ws3diHW9BcZjrhVTz9oRs5GgkHEEX4AEuK-BZoR1__Oesxv8QCd03L7axEwh-HNIqwz9EjJnvhijrgIIP0oYbw0bJKJxcClv7_GICi2Wsa6Qp8H9j_T8TA6HDqgVRJDXl3FT0gnkQjhYNeyAZerWOhRfAKN_yEuPEjskrCrH6EwzY08dsNCsnNgcOyU_XFV8rZCt5Y1xPzLHPERxXFDIx6qqgnpMzGSyVbWRZl0pxpP8_-fI9Bnev_69RZjWYvYdDeJrjjSybOsJczH7j2Jn3wQ8a8OLMHFcVWqapt4PrgtvdMX1Uu59bTy-Y2O87IP9z.3anwngSnIU2K0ueqr33cQA' \
+  -H 'Referer: http://localhost:3000/profile-api' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  --compressed
+###
+###
